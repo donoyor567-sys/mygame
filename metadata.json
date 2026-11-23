@@ -1,0 +1,6 @@
+{
+  "name": "Stickman Jang",
+  "description": "Ikki o‘yinchili va botga qarshi tezkor 2D stickman jang o‘yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
